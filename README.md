@@ -24,7 +24,7 @@ It intercepts standard PC game haptics/rumble APIs at runtime using [MinHook](ht
 ## Supported Hardware
 
 - **Controller:** Flydigi Vader 5 Pro V2
-- - **Connection:** USB-C Cable (**Recommended**)
+- **Connection:** USB-C Cable (**Recommended**)
 - **Connection:** Flydigi Wireless Dongle (`VID_37D7`, `PID_2401`) via Vendor HID interface
 
 ---
